@@ -1,4 +1,5 @@
-#GitHub User Finder
+# GitHub User Finder
+
 Вы можете ознакомиться с приложением [GitHub Pages](https://zelelizaveta.github.io/GItHub_User_Finder/).
 
 - Это приложение по поиску пользователей на просторах GitHub
